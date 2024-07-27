@@ -1,7 +1,6 @@
 package br.com.acmepay.adapters.output.queue.service;
 
 import br.com.acmepay.adapters.output.queue.ProducerMessage;
-import br.com.acmepay.adapters.output.queue.PublishMessageImpl;
 import br.com.acmepay.adapters.requests.DocumentResquest;
 import br.com.acmepay.application.ports.out.ICheckDocumentCustomer;
 import lombok.AllArgsConstructor;

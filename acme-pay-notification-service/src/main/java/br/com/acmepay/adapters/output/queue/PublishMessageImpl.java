@@ -1,7 +1,6 @@
 package br.com.acmepay.adapters.output.queue;
 
 import br.com.acmepay.adapters.requests.DocumentResquest;
-import br.com.acmepay.constants.ConstantsRabbitMQ;
 import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;

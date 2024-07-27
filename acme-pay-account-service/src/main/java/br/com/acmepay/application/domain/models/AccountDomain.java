@@ -1,7 +1,6 @@
 package br.com.acmepay.application.domain.models;
 
 import br.com.acmepay.adapters.requests.DocumentResquest;
-import br.com.acmepay.application.domain.exception.BalanceToWithdrawException;
 import br.com.acmepay.application.ports.out.ICheckDocumentCustomer;
 import br.com.acmepay.application.ports.out.ICreateAccount;
 import lombok.*;
